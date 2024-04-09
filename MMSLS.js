@@ -5,7 +5,7 @@
 
 
 const MMSLS = [
- "https://www.maimemo.com/share/page?uid=15567869&pid=6f42e1b220045d9d746d0158bb27b07a&tid=488a10b5085ba705336c12f3102ffb7d"
+ "https://www.maimemo.com/share/page?uid=15567869&pid=0517da4ff29a79acb5da1c587380e9b4&tid=ca3e6569ef02b7c0bba3f709710b4cfe"
 
   ]
 =====================以上为范例！=====================
